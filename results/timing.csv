@@ -1,0 +1,8 @@
+record,recording,duration_min,clusters,light_s,unitrefine_s,precise_s
+IBL 1,dop_47_2022-06-05_probe00,92,318,21,1763,2192
+IBL 2,dop_47_2022-06-05_probe02,92,454,15,1817,2276
+IBL 3,dop_47_2022-06-05_probe03,92,336,14,1765,2187
+IBL 4,dop_47_2022-06-06_probe00,76,512,28,1642,2061
+IBL 5,dop_47_2022-06-06_probe01,76,582,35,1721,2158
+IBL 6,dop_47_2022-06-09_probe01,96,390,25,1898,2350
+IBL 7,dop_50_2022-09-16_probe00,89,632,33,1918,2409
